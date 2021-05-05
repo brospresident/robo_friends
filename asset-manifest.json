@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/brospresident.github.io/robo_friends/static/css/main.bf659c9d.chunk.css",
+    "main.js": "/brospresident.github.io/robo_friends/static/js/main.427c8f96.chunk.js",
+    "main.js.map": "/brospresident.github.io/robo_friends/static/js/main.427c8f96.chunk.js.map",
+    "runtime-main.js": "/brospresident.github.io/robo_friends/static/js/runtime-main.ad122565.js",
+    "runtime-main.js.map": "/brospresident.github.io/robo_friends/static/js/runtime-main.ad122565.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/brospresident.github.io/robo_friends/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.4cd036b5.chunk.js": "/brospresident.github.io/robo_friends/static/js/2.4cd036b5.chunk.js",
+    "static/js/2.4cd036b5.chunk.js.map": "/brospresident.github.io/robo_friends/static/js/2.4cd036b5.chunk.js.map",
+    "static/js/3.2ad1e3c8.chunk.js": "/brospresident.github.io/robo_friends/static/js/3.2ad1e3c8.chunk.js",
+    "static/js/3.2ad1e3c8.chunk.js.map": "/brospresident.github.io/robo_friends/static/js/3.2ad1e3c8.chunk.js.map",
+    "index.html": "/brospresident.github.io/robo_friends/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/brospresident.github.io/robo_friends/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.bf659c9d.chunk.css.map": "/brospresident.github.io/robo_friends/static/css/main.bf659c9d.chunk.css.map",
+    "static/js/2.4cd036b5.chunk.js.LICENSE.txt": "/brospresident.github.io/robo_friends/static/js/2.4cd036b5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad122565.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.4cd036b5.chunk.js",
+    "static/css/main.bf659c9d.chunk.css",
+    "static/js/main.427c8f96.chunk.js"
+  ]
+}
